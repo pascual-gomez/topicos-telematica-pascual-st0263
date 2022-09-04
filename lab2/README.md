@@ -1,5 +1,6 @@
 # ST263: Tópicos Especiales en Telemática
 Students: Pascual Gómez, pgomezl@eafit.edu.co - Sebastián Granda Gallego, sgrandag@eafit.edu.co
+
 Professor: Edwin Montoya, emontoya@eafit.edu.co
 
 ## Lab 2: Message-oriented Middleware
