@@ -47,7 +47,8 @@ temperature is too low. If on, air conditioner will be turned off.
 ├── cons_app                                         
 │   └── cons.py                     # Consumer Application                                
 ├── prod_app                        
-│   └── prod.py                     # Producer Application         
+│   └── prod.py                     # Producer Application
+├── AMQP-MentalMap.jpeg             # AMQP protocol mental map
 └── README.md  
 ```
 
