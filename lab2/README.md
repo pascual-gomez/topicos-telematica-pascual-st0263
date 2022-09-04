@@ -60,6 +60,4 @@ This project was deployed on EC2 machines in AWS Academy using Ubuntu as OS, doc
 |docker|Open platform for developing, shipping, and running applications|[Docker](https://www.docker.com)|
 |pika|Pika is a pure-Python implementation of the AMQP 0-9-1 protocol that tries to stay fairly independent of the underlying network support library.|[Pika](https://pypi.org/project/pika/)|
 
-## References
-
 #### version README.md -> 1.0 (2022-september)
