@@ -15,6 +15,20 @@ The application receives http and https petitions.
 ## Run and use
 Access to web server on domain http://www.pgomezl.tk or IP address: 35.202.222.65
 
+To connect via ssh to the VM run this command inside the directory where the ssh key "lab3.pem" is located.
+```bash
+ssh -i "lab3.pem" paskugomez@35.202.222.65
+```
+When asked for a passphrase, type
+```bash
+lab3
+```
+You should be prompted  with a message saying:
+```bash
+Welcome to Ubuntu 20.04.5 LTS (GNU/Linux 5.15.0-1017-gcp x86_64)
+```
+There you are already inside the VM Instance ready to navegate and check every service and container running.
+
 ## Deployment
 This project was deployed on a VM instance in Google Cloud using Ubuntu as OS, docker to deploy containers with nginx, wordpress and mysql images running on them.
 
