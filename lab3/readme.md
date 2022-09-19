@@ -23,6 +23,6 @@ This project was deployed on a VM instance in Google Cloud using Ubuntu as OS, d
 |------|-----------|----|
 |nginx|Web server that can also be used as a reverse proxy, load balancer, mail proxy and HTTP cache.|[Nginx](https://nginx.org/en/docs/)|
 |docker|Set of platform as a service (PaaS) products that use OS-level virtualization to deliver software in packages called containers.|[Docker](https://www.docker.com/)|
-|certbot|A nonprofit certificate authority providing TLS certificates.|[Docker](https://letsencrypt.org/)|
+|letsencrypt|A nonprofit certificate authority providing TLS certificates.|[Let's Encrypt](https://letsencrypt.org/)|
 
 #### version README.md -> 1.0 (2022-september)
